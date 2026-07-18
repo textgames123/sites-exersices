@@ -1,6 +1,6 @@
 # Mdn Projects
 
-This reprository is an list of exerices html, css, javascript from Mdn or othe projects on interactive websites
+This reprository is an list of exerices html, css, javascript from Mdn or other projects on interactive websites
 
 # Why?
 Becaue i want to keep track of my Mdn Projects
