@@ -24,6 +24,7 @@ let number = 0;
 while (number < 100) {
   number = +prompt("Please type a number bigger than 100: ");
 
+  if (!number) break
 }
 
 alert("Exercise 4: Output prime numbers");
