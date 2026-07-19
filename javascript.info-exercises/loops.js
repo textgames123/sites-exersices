@@ -28,7 +28,7 @@ while (number < 100) {
 
 alert("Exercise 4: Output prime numbers");
 
-let userNumber = +prompt("Type a number to get primes: ");
+const userNumber = +prompt("Type a number to get primes: ");
 
 main:
 for (let number = 1; number <= userNumber; number++) {
