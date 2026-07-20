@@ -3,8 +3,6 @@ function sumOfTripleNumbers(numbers) {
   for (const number of numbers) {
     if (number % 2 === 0) {
       sum += number * 3;
-    } else {
-      sum += number;
     }
   }
 
