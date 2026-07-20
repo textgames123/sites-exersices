@@ -8,3 +8,4 @@ Because i want to keep track of my Mdn Projects
 # Projects:
   - [Mdn Projects](./mdn-exercises/projects.md)
   - [Javascript.info projects](./javascript.info-exercises/projects.md) 
+  - [The odin projects](./the-odin-project/projects.md)
